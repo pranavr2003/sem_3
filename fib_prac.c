@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+int fib(int);
+
 int main() {
 
     int n = 10;
