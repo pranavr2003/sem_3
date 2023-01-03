@@ -40,3 +40,4 @@ void swapCube(int *a, int *b)
     *a = pow(*b, 3);
     *b = pow(temp, 3);
 }
+

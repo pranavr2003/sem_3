@@ -8,7 +8,7 @@ int main() {
 
     for (int i = 0; i < 5; i++) {
 
-        printf("Enter integers to pupulate the original array: ");
+        printf("Enter integers to populate the original array: ");
         scanf("%d", &arr[i]);
 
     }
